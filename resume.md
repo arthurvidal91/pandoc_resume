@@ -1,4 +1,4 @@
-Johnny Coder
+Arthur Oliveira Vidal
 ============
 
 ----
@@ -96,5 +96,5 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> arthurvidal91@gmail.com • 21 97948-0809 • 25 years old
+> Avenida Geremario Dantas 1064, apt 601 - Rio de Janeiro, Brazil

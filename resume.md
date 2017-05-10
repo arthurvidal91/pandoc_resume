@@ -50,9 +50,8 @@ Technical Experience
 --------------------
 
 **Human Languages**
-:   
-* English - Professional working proficiency
-* Portuguese - Native
+: English - Professional working proficiency  
+  Portuguese - Native
 
 **Front-End**
 :   HTML, CSS, JavaScript, Bootstrap, Marko.js, Jquery.  

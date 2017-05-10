@@ -50,32 +50,17 @@ Technical Experience
 --------------------
 
 **Human Languages**
-:   * English - Professional working proficiency
-    * Portuguese - Native
+:   
+* English - Professional working proficiency
+* Portuguese - Native
 
 **Front-End**
-:   HTML, CSS, JavaScript, Marko.js, Jquery.  
+:   HTML, CSS, JavaScript, Bootstrap, Marko.js, Jquery.  
 
 **Back-End**
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   Java EE, Python
+: 	Oracle Database, Mysql, MongoDB
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file).
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
 
 Certifications
 ----------------------------------------

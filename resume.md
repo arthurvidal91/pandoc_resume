@@ -27,40 +27,36 @@ Education
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Java Software Developer**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Extreme Digital Solutions - EDS
 
-* First item
+Mar 2015 - Present (2 yrs 3 mos)
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Built, tested and deployed software in Java EE with Application Development Framework(ADF) 11g and 12c
 
-**That Other Job You Had**
+* Modified existing software to correct errors and improve performance.
 
-Also with a short description.
+**Java Programmer**
+
+Casa da Moeda do Brasil - CMB
+
+Feb 2013 - Mar 2015 (2 yrs 2 mos)
+
+* Create and maintain software in Java SE
+
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Human Languages**
+:   * English - Professional working proficiency
+    * Portuguese - Native
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+**Front-End**
+:   HTML, CSS, JavaScript, Marko.js, Jquery.  
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
+**Back-End**
 :   **first-lang:** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
     mention some others together at the end. A format that works well
@@ -72,7 +68,7 @@ Programming Languages
 :   **second-lang:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
-    file). 
+    file).
 
 :   **obscure-but-impressive-lang:** We both know this one's pushing
     it.
@@ -81,18 +77,18 @@ Programming Languages
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
+Certifications
 ----------------------------------------
 
-* Human Languages:
+**Java**
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+* Oracle Certified Professional, Java SE 7 Programmer
+* Java EE 6 Web Component Developer Certified Expert
 
-* Random tidbit
+**Application Development Framework - ADF**
 
-* Other sort of impressive-sounding thing you did
+* Oracle Application Development Framework 11g Essentials
+* Oracle Application Development Framework 12c Essentials
 
 ----
 

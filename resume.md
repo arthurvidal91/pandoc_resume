@@ -3,26 +3,24 @@ Arthur Oliveira Vidal
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Software developer who helps to deliver good and cleaned software.
+>    Also a Java specialist with good groud of EJB, JPA and JSF.
+>  Starting digging into python, django, flask and react.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2015-2017
+:   **Software Architect Post Graduation**, INFNET
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2010-2014
+:   **Bacharel degree on Information System**, Universidade Estácio de sá
 
 2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+:   **Information Tecnology Techinical Course**, CEFET-RJ
 
-    *Minor: Awesomeology*
 
 Experience
 ----------
@@ -44,7 +42,7 @@ Casa da Moeda do Brasil - CMB
 Feb 2013 - Mar 2015 (2 yrs 2 mos)
 
 * Create and maintain software in Java SE
-
+* Collect requirements
 
 Technical Experience
 --------------------
@@ -77,5 +75,5 @@ Certifications
 
 ----
 
-> arthurvidal91@gmail.com • 21 97948-0809 • 25 years old
+> arthurvidal91@gmail.com • 21 97948-0809 • 25 years •
 > Avenida Geremario Dantas 1064, apt 601 - Rio de Janeiro, Brazil

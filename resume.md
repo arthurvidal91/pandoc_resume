@@ -48,9 +48,8 @@ Technical Experience
 --------------------
 
 **Human Languages**
-:   
-* English - Professional working proficiency
-* Portuguese - Native
+: English - Professional working proficiency  
+  Portuguese - Native
 
 **Front-End**
 :   HTML, CSS, JavaScript, Bootstrap, React, Jquery.  
@@ -68,7 +67,7 @@ Certifications
 * Oracle Certified Professional, Java SE 7 Programmer
 * Java EE 6 Web Component Developer Certified Expert
 
-**Application Development Framework - ADF**
+**ADF**
 
 * Oracle Application Development Framework 11g Essentials
 * Oracle Application Development Framework 12c Essentials

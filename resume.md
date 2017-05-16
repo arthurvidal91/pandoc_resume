@@ -4,8 +4,8 @@ Arthur Oliveira Vidal
 ----
 
 >  Software developer who helps to deliver good and cleaned software.
->    Also a Java specialist with good groud of EJB, JPA and JSF.
->  Starting digging into python, django, flask and react.
+>  Also a Java specialist with good groud of EJB, JPA and JSF.
+>  Starting studying python, django, flask and react.
 
 ----
 
@@ -41,7 +41,7 @@ Casa da Moeda do Brasil - CMB
 
 Feb 2013 - Mar 2015 (2 yrs 2 mos)
 
-* Create and maintain software in Java SE
+* Create and maintain software in Java Swing
 * Collect requirements
 
 Technical Experience
@@ -53,7 +53,7 @@ Technical Experience
 * Portuguese - Native
 
 **Front-End**
-:   HTML, CSS, JavaScript, Bootstrap, Marko.js, Jquery.  
+:   HTML, CSS, JavaScript, Bootstrap, React, Jquery.  
 
 **Back-End**
 :   Java EE, Python

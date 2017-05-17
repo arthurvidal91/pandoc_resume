@@ -4,7 +4,7 @@ Arthur Oliveira Vidal
 ----
 
 >  Java specialist with experience on EJB, JPA, JSF, ADF.    
-   Seeking opportunities to help building solid software.    
+   Seeking opportunities to help agile teams building quality software.    
    Dating Python, Flask, React and Devops.
 
 ----
@@ -29,7 +29,7 @@ Experience
 
 I help the company by building, testing, and deploying software in Java.    
 Also modifying existing software to correct errors and improve performance.    
-Almost all the solutions I've worked were implemented with ADF, EJB, JPA.    
+Almost all these solutions were implemented with ADF, EJB, JPA.    
 At one of the projects I've implemented an integration with RightNow Cloud Service    
 Finally I've worked 1 year and a half with BPM and Digital Signature with Java.        
         
@@ -63,5 +63,5 @@ Certifications
 
 ----
 
-> arthurvidal91@gmail.com • 21 97948-0809 • 25 years •
+> arthurvidal91@gmail.com • +55 21 97948-0809 • 25 years •
 > Avenida Geremario Dantas 1064, apt 601 - Rio de Janeiro, Brazil

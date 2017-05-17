@@ -3,9 +3,9 @@ Arthur Oliveira Vidal
 
 ----
 
->  Software developer who helps to deliver good and cleaned software.
->  Also a Java specialist with good groud of EJB, JPA and JSF.
->  Starting studying python, django, flask and react.
+>  Java specialist with experience on EJB, JPA, JSF, ADF.    
+   Seeking opportunities to help building solid software.    
+   Dating Python, Flask, React and Devops.
 
 ----
 
@@ -13,50 +13,39 @@ Education
 ---------
 
 2015-2017
-:   **Software Architect Post Graduation**, INFNET
+:   **Master Degree on Software Architect**, Instituto INFNET
 
 2010-2014
 :   **Bacharel degree on Information System**, Universidade Estácio de sá
 
 2007-2010
-:   **Information Tecnology Techinical Course**, CEFET-RJ
+:   **Associate Degree on Information Tecnology**, CEFET-RJ
 
 
 Experience
 ----------
 
-**Java Software Developer**
+**Java Software Developer** - Extreme Digital Solutions (Mar 2015 - Present)
 
-Extreme Digital Solutions - EDS
+I help the company by building, testing, and deploying software in Java.    
+Also modifying existing software to correct errors and improve performance.    
+Almost all the solutions I've worked were implemented with ADF, EJB, JPA.    
+At one of the projects I've implemented an integration with RightNow Cloud Service    
+Finally I've worked 1 year and a half with BPM and Digital Signature with Java.        
+        
+**Java Programmer** - Casa da Moeda do Brasil - CMB (Feb 2013 - Mar 2015)
 
-Mar 2015 - Present (2 yrs 3 mos)
-
-* Built, tested and deployed software in Java EE with Application Development Framework(ADF) 11g and 12c
-
-* Modified existing software to correct errors and improve performance.
-
-**Java Programmer**
-
-Casa da Moeda do Brasil - CMB
-
-Feb 2013 - Mar 2015 (2 yrs 2 mos)
-
-* Create and maintain software in Java Swing
-* Collect requirements
+I helped the company to create and maintain solutions that manage the production of smart cards.
+All these solutions were implemented with Java, Swing and JPA.
 
 Technical Experience
 --------------------
 
-**Human Languages**
-: English - Professional working proficiency  
-  Portuguese - Native
+**Human Languages** : English, Portuguese.    
 
-**Front-End**
-:   HTML, CSS, JavaScript, Bootstrap, React, Jquery.  
+**Front-End** :   HTML, CSS, JavaScript, Bootstrap, Jquery, React.    
 
-**Back-End**
-:   Java EE, Python
-: 	Oracle Database, Mysql, MongoDB
+**Back-End** :   Java EE, Python, Oracle Database, Mysql, MongoDB.
 
 
 Certifications

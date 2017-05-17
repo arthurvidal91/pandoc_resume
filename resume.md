@@ -1,54 +1,54 @@
-Arthur Oliveira Vidal TESTE
+Arthur Oliveira Vidal
 ============
 
 ----
 
->  Java specialist with experience on EJB, JPA, JSF, ADF.    
-   Seeking opportunities to help building solid software.    
-   Dating Python, Flask, React and Devops.
+>  Analista desenvolvedor Java com experiência em EJB, JPA, JSF, ADF.    
+   Procurando oportunidades para ajudar empresas a desenvolver soluções de software.    
+   Estudando Python, Flask, React and Devops.    
 
 ----
 
-Education
+Educação
 ---------
 
 2015-2017
-:   **Master Degree on Software Architect**, Instituto INFNET
+:   **Pós-Graduação de Arquitetura de Software**, Instituto INFNET    
 
 2010-2014
-:   **Bacharel degree on Information System**, Universidade Estácio de sá
+:   **Bacharelado em Sistemas de Informação**, Universidade Estácio de sá    
 
 2007-2010
-:   **Associate Degree on Information Tecnology**, CEFET-RJ
+:   **Técnico de Informática**, CEFET-RJ    
 
 
-Experience
+Experiência Profissional
 ----------
 
-**Java Software Developer** - Extreme Digital Solutions (Mar 2015 - Present)
+**Analista desenvolvedor Java** - Extreme Digital Solutions (Mar 2015 - Atual)    
 
-I help the company by building, testing, and deploying software in Java.    
-Also modifying existing software to correct errors and improve performance.    
-Almost all the solutions I've worked were implemented with ADF, EJB, JPA.    
-At one of the projects I've implemented an integration with RightNow Cloud Service    
-Finally I've worked 1 year and a half with BPM and Digital Signature with Java.        
+Eu colabora com a empresa construindo, testando e deployando soluções de software em Java.    
+Também faço manutenções em soluções existentes para corrigir erros e melhorar performance.    
+A maioria desses projetos foram implementados com ADF,EJB e JPA.    
+Em um dos projetos que participei, implementei uma integração Java com o RightNow Cloud Service.    
+Trabalhei tambem 1 ano e meio em projetos de BPM e Processo Digitais.    
         
-**Java Programmer** - Casa da Moeda do Brasil - CMB (Feb 2013 - Mar 2015)
+**Programado Java** - Casa da Moeda do Brasil - CMB (Fev 2013 - Mar 2015)    
 
-I helped the company to create and maintain solutions that manage the production of smart cards.
-All these solutions were implemented with Java, Swing and JPA.
+Eu colaborei com a empresa criando e fazendo manutenção em soluções que gerenciam a produção de cartões inteligentes.    
+Todas essas soluções foram implementadas com Java, Swing e JPA.    
 
-Technical Experience
+Experiência Técnica
 --------------------
 
-**Human Languages** : English, Portuguese.    
+**Idiomas** : Inglês, Português.    
 
 **Front-End** :   HTML, CSS, JavaScript, Bootstrap, Jquery, React.    
 
 **Back-End** :   Java EE, Python, Oracle Database, Mysql, MongoDB.
 
 
-Certifications
+Certificações
 ----------------------------------------
 
 **Java**
@@ -63,5 +63,5 @@ Certifications
 
 ----
 
-> arthurvidal91@gmail.com • 21 97948-0809 • 25 years •
-> Avenida Geremario Dantas 1064, apt 601 - Rio de Janeiro, Brazil
+> arthurvidal91@gmail.com • 21 97948-0809 • 25 anos •
+> Avenida Geremario Dantas 1064, apt 601 - Rio de Janeiro, Brasil

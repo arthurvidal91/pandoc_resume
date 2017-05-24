@@ -5,21 +5,18 @@ Arthur Oliveira Vidal
 
 >  Java specialist with experience on EJB, JPA, JSF, ADF.    
    Seeking opportunities to help agile teams building quality software.    
-   Dating Python, Flask, React and Devops.
+   Studying Python, Flask, React and Devops.
 
 ----
 
 Education
 ---------
 
-2015-2017
-:   **Master Degree on Software Architect**, Instituto INFNET
+**Master in Software Architecture**, Instituto INFNET (2015-2017)
 
-2010-2014
-:   **Bacharel degree on Information System**, Universidade Estácio de sá
+**Bachalor of Science in Information Systems**, Universidade Estácio de sá (2010-2014)
 
-2007-2010
-:   **Associate Degree on Information Tecnology**, CEFET-RJ
+**Associate Degree in Information Tecnology**, CEFET-RJ (2007-2010)
 
 
 Experience
@@ -27,11 +24,12 @@ Experience
 
 **Java Software Developer** - Extreme Digital Solutions (Mar 2015 - Present)
 
-I help the company by building, testing, and deploying software in Java.    
-Also modifying existing software to correct errors and improve performance.    
+I help the company by building, testing, and deploying software in Java and    
+modifying existing software to correct errors and improve performance.    
 Almost all these solutions were implemented with ADF, EJB, JPA.    
-At one of the projects I've implemented an integration with RightNow Cloud Service    
-Finally I've worked 1 year and a half with BPM and Digital Signature with Java.        
+One of these projects I've implemented an integration with RightNow Cloud Service.    
+Also 2 years working in Digital Process Solutions and one BI Solution using Java EE, BPM and ADF.
+
         
 **Java Programmer** - Casa da Moeda do Brasil - CMB (Feb 2013 - Mar 2015)
 
@@ -45,7 +43,9 @@ Technical Experience
 
 **Front-End** :   HTML, CSS, JavaScript, Bootstrap, Jquery, React.    
 
-**Back-End** :   Java EE, Python, Oracle Database, Mysql, MongoDB.
+**Back-End** :   Java, JPA, EJB, Python, Oracle Database, Mysql, MongoDB.
+
+**DevOps** :   Docker, Jenkins, AWS
 
 
 Certifications

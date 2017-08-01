@@ -25,10 +25,11 @@ Experience
 **Java Software Developer** - Extreme Digital Solutions (Mar 2015 - Present)
 
 I help the company by building, testing, and deploying software in Java and    
-modifying existing software to correct errors and improve performance.    
-Almost all these solutions were implemented with ADF, EJB, JPA.    
+modifying existing software to correct errors and improve performance.   
+Almost all these solutions were implemented with JavaEE and ADF.    
 One of these projects I've implemented an integration with RightNow Cloud Service.    
-Also 2 years building and mantaining Digital Process Solutions and one BI Solution using Java EE, BPM and ADF.
+Also 2 years building and mantaining Digital Process Solutions     
+and one BI Solution using Java EE, BPM and ADF.
 
         
 **Java Programmer** - Casa da Moeda do Brasil - CMB (Feb 2013 - Mar 2015)
@@ -63,5 +64,5 @@ Certifications
 
 ----
 
-> arthurvidal91@gmail.com • +55 21 97948-0809 • 26 years •
+> American • 26 years • arthurvidal91@gmail.com • +55 21 97948-0809 •
 > Avenida Geremario Dantas 1064, apt 601 - Rio de Janeiro, Brazil 

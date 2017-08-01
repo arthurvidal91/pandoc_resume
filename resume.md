@@ -27,7 +27,7 @@ Experiência Profissional
 
 **Analista desenvolvedor Java** - Extreme Digital Solutions (Mar 2015 - Atual)    
 
-Eu colabora com a empresa construindo, testando e deployando soluções de software em Java.    
+Colaboro com a empresa construindo, testando e deployando soluções de software em Java.    
 Também faço manutenções em soluções existentes para corrigir erros e melhorar performance.    
 A maioria desses projetos foram implementados com ADF,EJB e JPA.    
 Em um dos projetos que participei, implementei uma integração Java com o RightNow Cloud Service.    
@@ -63,5 +63,5 @@ Certificações
 
 ----
 
-> arthurvidal91@gmail.com • 21 97948-0809 • 25 anos •
+> arthurvidal91@gmail.com • 21 97948-0809 • 26 anos •
 > Avenida Geremario Dantas 1064, apt 601 - Rio de Janeiro, Brasil

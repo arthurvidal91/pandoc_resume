@@ -10,7 +10,7 @@ Arthur Oliveira Vidal
 ----
 
 Educação
----------
+--
 
 2015-2017
 :   **Pós-Graduação de Arquitetura de Software**, Instituto INFNET    
@@ -23,23 +23,23 @@ Educação
 
 
 Experiência Profissional
-----------
+--
 
 **Analista desenvolvedor Java** - Extreme Digital Solutions (Mar 2015 - Atual)    
 
 Colaboro com a empresa construindo, testando e deployando soluções de software em Java.    
-Também faço manutenções em soluções existentes para corrigir erros e melhorar performance.    
-A maioria desses projetos foram implementados com ADF,EJB e JPA.    
-Em um dos projetos que participei, implementei uma integração Java com o RightNow Cloud Service.    
-Trabalhei tambem 1 ano e meio em projetos de BPM e Processo Digitais.    
+Também faço manutenções em soluções existentes para corrigir erros e melhorar performance.     
+Fui desenvolvedor de um projeto de integração com o RightNow Cloud Service e de uma solução de BI.   
+Trabalhei também 1 ano e meio com projetos de BPM e Processo Digitais.    
+A maioria dessas soluções foram implementadas com JavaEE e ADF.
         
-**Programado Java** - Casa da Moeda do Brasil - CMB (Fev 2013 - Mar 2015)    
+**Programador Java** - Casa da Moeda do Brasil - CMB (Fev 2013 - Mar 2015)    
 
-Eu colaborei com a empresa criando e fazendo manutenção em soluções que gerenciam a produção de cartões inteligentes.    
+Eu colaborei com a empresa construindo e fazendo manutenção em soluções que gerenciam a produção de cartões inteligentes.    
 Todas essas soluções foram implementadas com Java, Swing e JPA.    
 
 Experiência Técnica
---------------------
+--
 
 **Idiomas** : Inglês, Português.    
 
@@ -49,7 +49,7 @@ Experiência Técnica
 
 
 Certificações
-----------------------------------------
+--
 
 **Java**
 
@@ -63,5 +63,5 @@ Certificações
 
 ----
 
-> arthurvidal91@gmail.com • 21 97948-0809 • 26 anos •
+> Americano • 26 anos • arthurvidal91@gmail.com • 21 97948-0809 •
 > Avenida Geremario Dantas 1064, apt 601 - Rio de Janeiro, Brasil

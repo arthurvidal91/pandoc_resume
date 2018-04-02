@@ -35,13 +35,22 @@ This web application was developed with Java, ADF, JPA, EJB.
 • Development of a Java API for creating and getting contacts and incidents from Oracle RightNow.
 
 • Development of a BI application with Java and ADF.            
-Skills: Advanced Java, EJB, Java Persistence API, ADF    	
+
+Skills: Java 8, ADF, JPA, EJB, JAX-WS, JAX-RS, Oracle BPM, SVN.    	
         
+
 **Java Programmer** - Casa da Moeda do Brasil - CMB (Feb 2013 - Mar 2015)
 
-I worked creating and maintaining projects that manage the production of smart cards.
-All these solutions were implemented with Java, Swing and JPA.    	
-Skills: Advanced Java, Java Persistence API   
+• Development of a Java Desktop Application that manage the production of functional cards since the
+request of the client through a JAX-WS application to the shipping of the card. This application was replicated and
+customized according to the new clients needs. The application was developed with Swing components and
+EclipseLink JPA.          
+
+• Development of a Java Desktop application to purge old files from the server.      
+
+• Collect of requirements with the Client          	
+
+Skills: Java SE, JPA, Swing, SQL Server, SVN.
 
 Technical Experience
 --------------------

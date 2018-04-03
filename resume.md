@@ -40,9 +40,9 @@ Skills: Java 8, ADF, JPA, EJB, JAX-WS, JAX-RS, Oracle BPM, SVN.
 
 **Java Programmer** - Casa da Moeda do Brasil - CMB (Feb 2013 - Mar 2015)
 
-• Development of a Java Desktop Application that manage the production of functional cards since the
+• Development of a Java Desktop Application that manages the production of functional cards since the
 request of the client through a JAX-WS application to the shipping of the card. This application was replicated and
-customized according to the new clients needs. The application was developed with Swing components and
+customized according to the new clients' needs. The application was developed with Swing components and
 EclipseLink JPA.          
 
 • Development of a Java Desktop application to purge old files from the server.      

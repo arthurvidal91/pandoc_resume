@@ -5,7 +5,6 @@ Arthur Oliveira Vidal
 
 >  Java specialist with experience on Java EE and ADF.    
    Seeking opportunities to help agile teams building quality software.    
-   Studying Python, React and Devops.
 
 ----
 
